@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+
+
 # Demo LangGraph Tutorial
 
 A hands-on walkthrough for building advanced, stateful AI agents using **LangGraph** — from basic chatbot to memory, tools, human-in-the-loop, and time-travel.
